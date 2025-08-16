@@ -3,7 +3,7 @@
 This notebook explores the global coffee industry with a focus on production, trade, and consumption trends. By analyzing data on green coffee production, harvested areas, imports, exports, and consumption patterns, this project aims to uncover interesting insights and phenomena that shape the coffee market worldwide to better understand the dynamics of this essential commodity.
 
 
-> Green Coffe Production and Harvest: 
+> Green Coffee Production and Harvest: 
 
 ![Coffee Production Worldwide Growth](./assets/output1.png)
 
@@ -16,6 +16,17 @@ This notebook explores the global coffee industry with a focus on production, tr
 ![Top Producer - Years](./assets/output5.png)
 
 ![Yields](./assets/output6.png)
+
+> Green Coffee Trade: 
+
+![Exports](./assets/output7.png)
+
+![Imports](./assets/output8.png)
+
+![Top Exporteur/Importeur](./assets/output9.png)
+
+![Export over the Yearss](./assets/output10.png)
+
 
 -- --
 
